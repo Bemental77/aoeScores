@@ -1,0 +1,8 @@
+Britons:1:Longbowman:Yeoman,Warwolf:80450
+Magyars:1:Magyar Huszar:Mercenaries,Recurve Bow:45718
+Italians:1:Genoese Crossbowman:Pavise,Silk Road:55030
+Slavs:2:Boyar:Orthodoxy,Druzhina:28223
+Saracens:2:Mameluke:Madrasah,Zealotry:19426
+Turks:2:Janissary:Sipahi,Artillery:32677
+Franks:2:Throwing Axeman:Chivalry,Bearded Axe:30078
+Vikings:1:Berserk:Chieftains,Berserkergang:45472
